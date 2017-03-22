@@ -1,0 +1,10 @@
+Debug/
+logs/
+*.opensdf
+*.sdf
+*.ncb
+*.suo
+!captureScreen.exe
+dsg-12-13-linux-windows.tar.gz
+main.exe
+interface-example.c
